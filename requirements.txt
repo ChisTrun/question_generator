@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+tqdm
+sentence-transformers
+elasticsearch
+psycopg2-binary
